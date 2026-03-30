@@ -41,5 +41,8 @@ It allows users to log in using credentials and receive a token, which is then u
 1. Send credentials to `/api/login`
 2. Receive JWT token in response
 3. Add token in header:
+   
+<img width="1376" height="598" alt="image" src="https://github.com/user-attachments/assets/e815c464-81f4-4227-a8b4-e10942839945" />
 
+<img width="1208" height="630" alt="image" src="https://github.com/user-attachments/assets/8e5d1899-6f9f-4707-a935-496b63d214d2" />
 
